@@ -18,6 +18,6 @@ Therefore, We have produced mapping for 2014 structure too.
 
 It contains the mapping at the ward level from 2014 structure to 2018 post-federalism structure.
 
-The columns, *District*, *VDC/Municipality Name*, *OLD_WARD_NO* and *LU HLCIT Ward Code*,
-represent the administrative structure information for 2014. The corresponding columns, *Province*, *District Code*, *Category of LU*, *LU Name*, *LU Name CBS*, *LU Name Nepali*, *LU CBS Code*, *NEW_WARD_NO* and *LU CBS Ward Code*,
+The columns, *District*, *VDC/Municipality Name*, *OLD_WARD_NO*,
+represent the administrative structure information for 2014. The corresponding columns, *Province*, *District Code*, *Category of LU*, *LU Name*, *LU Name CBS*, *LU Name Nepali*, *LU HLCIT Code*, *LU CBS Code*, *NEW_WARD_NO* and *LU CBS Ward Code*,
 represent the administrative structure information for 2018.
